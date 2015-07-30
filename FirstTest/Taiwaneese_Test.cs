@@ -25,6 +25,7 @@ namespace FirstTest
         [TestMethod]
         public void Employee_Cindy_Age()
         {
+            log.Debug("Cindy的年齡");
             Employee Cindy = new Taiwaneese("Cindy");
             Cindy.Age = 20;
 
