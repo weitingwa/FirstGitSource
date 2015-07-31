@@ -1,7 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Employee_class;
-using log4net.Config;
 using log4net;
 
 
